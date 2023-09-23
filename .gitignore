@@ -29,3 +29,5 @@ config.js
 
 # Ignore sensitive credentials
 secrets.json
+
+README.md
